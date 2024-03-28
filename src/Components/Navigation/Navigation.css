@@ -1,0 +1,22 @@
+.heading{
+    font-weight: 800;
+    font-variant: unset;
+    font-size: 30px;
+  }
+
+ nav{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 18px;
+    height: 72px;
+    align-items: center;
+    
+  }
+  
+  nav ul{
+    display: flex;
+    gap: 24px;
+    list-style: none;
+    font-weight: 500;
+    text-decoration: underline;
+  }
